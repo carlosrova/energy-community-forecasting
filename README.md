@@ -1,9 +1,7 @@
 # Predictive Optimization of Energy Consumption in Local Energy Communities
 
-This repository contains the final work of **Carlos Romero Vázquez**, developed as part of the **Master’s Final Project in Data Science and Big Data**.  
+This repository contains my final work developed as part of the **Master’s Final Project in Data Science and Big Data**.  
 The project focuses on the application of **Artificial Intelligence (AI)** and **Machine Learning (ML)** techniques to enhance energy management in **Smart Grid environments**.
-
----
 
 ## Project Overview
 
@@ -11,8 +9,6 @@ This project focuses on **improving short-term electricity demand forecasting** 
 It compares several predictive approaches — **ARIMA**, **Random Forest**, **LSTM**, **TCN**, and **Transfer Learning** — using **time series data of energy consumption** enriched with **temporal, meteorological, and community-related variables**.  
 
 The goal is to develop models capable of achieving **greater forecasting accuracy and adaptability**, supporting the **efficient and data-driven management** of local energy systems.
-
----
 
 ## Objectives
 
